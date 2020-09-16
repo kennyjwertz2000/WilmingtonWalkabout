@@ -1,0 +1,38 @@
+<resources>
+    <string name="return_selection">Return to Select</string>
+    <string name="app_name">Wilmington Walkabout</string>
+    <string name="get_info">Get Info</string>
+    <string name="info">No landmarks selected</string>
+<!--    <string name="battleship">Battleship NC</string>-->
+<!--    <string name="fort"-->
+    <string-array name="landmark_options">
+        <item>Battleship NC</item>
+        <item>Fort Fisher</item>
+        <item>Bellamy Mansion</item>
+    </string-array>
+
+    <string-array name="site_information">
+        <item> Explore the refurbished WWII Battleship starting with the Observation Deck.
+            The self-guided tour features nine levels of living spaces, mess decks, gun
+            turrets, powder storage, sick bay, and more. Serving as a memorial for the
+            11,000 North Carolinians who died during the war, the Battleship is open every
+            day. This is an historic adventure you do not want to miss.</item>
+
+       <item>Site of Civil Wars largest Amphibious (Land and Water) Battle, the remaining
+            portion of the gigantic Fort Fisher earthworks, along with a restored palisade
+            fence and impressive seacoast gun, sits near the Visitors Center. The fully
+            accessible Visitors Center and Gift Shop includes a video, exhibits, and artifacts
+            recovered from sunken ships. A scenic trail, shaded by gnarled live oaks, leads
+            past the earthworks, around to the rear of the fort remains. The newest exhibit
+            "From Slave to Soldier, Free a Man" the African American Experience at Fort Fisher,
+            highlights African Americans role in Fort Fishers story from the fortress
+            construction to its fall, then forward to those stationed there during WWII .</item>
+
+        <item>One of North Carolina’s most spectacular examples of antebellum architecture,
+            tour the exquisitely restored 10,000-square-foot house and re-created grounds
+            boasting one of the few preserved urban slave quarters in the country. Originally
+            built in 1861 as a prominent family’s residence, this museum now features changing
+            exhibits. Start with an introductory video available from your smartphone, and then
+            take a self-guided smartphone tour from your mobile device.</item>
+    </string-array>
+</resources>
